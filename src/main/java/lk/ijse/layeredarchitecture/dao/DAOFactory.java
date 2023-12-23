@@ -1,6 +1,6 @@
 package lk.ijse.layeredarchitecture.dao;
 
-import com.example.layeredarchitecture.dao.custom.Impl.*;
+
 import lk.ijse.layeredarchitecture.dao.custom.Impl.*;
 
 public class DAOFactory {

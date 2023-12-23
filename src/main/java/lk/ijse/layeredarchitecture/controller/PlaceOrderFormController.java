@@ -1,10 +1,10 @@
 package lk.ijse.layeredarchitecture.controller;
 
-import com.example.layeredarchitecture.bo.*;
+
 import lk.ijse.layeredarchitecture.bo.BOFactory;
 import lk.ijse.layeredarchitecture.bo.custom.impl.PlaseorderOB;
 import lk.ijse.layeredarchitecture.dao.custom.CustomerDAO;
-import com.example.layeredarchitecture.dao.custom.Impl.*;
+
 import lk.ijse.layeredarchitecture.dao.custom.Impl.QueryDAOImpl;
 import lk.ijse.layeredarchitecture.dto.CustomerDTO;
 import lk.ijse.layeredarchitecture.dto.ItemDTO;

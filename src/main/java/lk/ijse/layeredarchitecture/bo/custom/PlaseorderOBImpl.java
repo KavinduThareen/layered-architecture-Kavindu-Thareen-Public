@@ -6,7 +6,7 @@ import lk.ijse.layeredarchitecture.Entity.Order;
 import lk.ijse.layeredarchitecture.Entity.OrderDetail;
 import lk.ijse.layeredarchitecture.bo.custom.impl.PlaseorderOB;
 import lk.ijse.layeredarchitecture.dao.DAOFactory;
-import com.example.layeredarchitecture.dao.custom.*;
+//import com.example.layeredarchitecture.dao.custom.*;
 import lk.ijse.layeredarchitecture.dao.custom.*;
 import lk.ijse.layeredarchitecture.db.DBConnection;
 import lk.ijse.layeredarchitecture.dto.CustomerDTO;
